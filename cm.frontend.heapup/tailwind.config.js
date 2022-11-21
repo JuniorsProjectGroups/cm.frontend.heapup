@@ -1,0 +1,20 @@
+module.exports = {
+  content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
+  theme: {
+    colors: {
+
+    },
+    fontFamily: {
+
+    },
+    extend: {
+      boxShadow: {
+
+      },
+      dropShadow: {
+      },
+    },
+  },
+
+  plugins: [],
+};
